@@ -1,0 +1,5 @@
+*.pdf
+*.ipynb
+*.pyc
+TOSCA/
+TOSCA_plus/
