@@ -7,7 +7,10 @@ import torch
 from torch_geometric.data import Data, InMemoryDataset, download_url, extract_zip
 from torch_geometric.io import read_txt_array
 
-DATASET_ROOT = 'TOSCA'
+from deep_eikonal.core.chosen_samples import CHOSEN_SAMPLES_ID
+from deep_eikonal.core.depth_plot import format_vf
+
+DATASET_ROOT = 'deep_eikonal/data/TOSCA'
 
 class TOSCA(InMemoryDataset):
     r"""The TOSCA dataset from the `"Numerical Geometry of Non-Ridig Shapes"
@@ -106,10 +109,21 @@ class TOSCA(InMemoryDataset):
 
         torch.save(self.collate(data_list), self.processed_paths[0])
 
+    def load_chosen_sample(self, idx: int) -> Tuple[Tensor, Tensor, Tensor]:
+        assert 0 <= idx < 8
+        idx = CHOSEN_SAMPLES_ID[idx]
+        x = self[idx]
+        vertices, faces = format_vf(x.pos, x.face)
+        with open(f"deep_eikonal/data/distances/distances_{idx}.txt") as file:
+            v_dist = list(map(float, file.read().split()))
+        v_dist = torch.tensor(v_dist).float()
+        assert v_dist.size(0) == vertices.size(0)
+        return vertices, faces, v_dist
+
 def load_tosca_sample(idx: int,
                       ) -> Tuple[Tensor, Tensor]:
     """Loads the sample of TOSCA dataset refered by (idx). Returns a tensor
     couple, the vertices and the faces."""
     x = TOSCA()[idx]
-    vertices, faces = x.pos, x.face
+    vertices, faces = format_vf(x.pos, x.face)
     return vertices, faces

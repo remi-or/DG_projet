@@ -1,0 +1,1233 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.26)  9 APR 2023 19:23
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count187
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count188
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+)) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count189
+\calc@Bcount=\count190
+\calc@Adimen=\dimen140
+\calc@Bdimen=\dimen141
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count191
+\calc@Cskip=\skip51
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen142
+))
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count192
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count193
+\leftroot@=\count194
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count195
+\DOTSCASE@=\count196
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count197
+\c@MaxMatrixCols=\count198
+\dotsspace@=\muskip16
+\c@parentequation=\count199
+\dspbrk@lvl=\count266
+\tag@help=\toks19
+\row@=\count267
+\column@=\count268
+\maxfields@=\count269
+\andhelp@=\toks20
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks21
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+\g_MT_multlinerow_int=\count270
+\l_MT_multwidth_dim=\dimen151
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen152
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen153
+\l_MT_above_intertext_sep=\dimen154
+\l_MT_below_intertext_sep=\dimen155
+\l_MT_above_shortintertext_sep=\dimen156
+\l_MT_below_shortintertext_sep=\dimen157
+\xmathstrut@box=\box49
+\xmathstrut@dim=\dimen158
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2022-12-05 v3.1.11 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen159
+\l__siunitx_angle_marker_box=\box50
+\l__siunitx_angle_unit_box=\box51
+\l__siunitx_compound_count_int=\count271
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
+ns.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count272
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count273
+\l__siunitx_number_min_decimal_int=\count274
+\l__siunitx_number_min_integer_int=\count275
+\l__siunitx_number_round_precision_int=\count276
+\l__siunitx_number_group_first_int=\count277
+\l__siunitx_number_group_size_int=\count278
+\l__siunitx_number_group_minimum_int=\count279
+\l__siunitx_table_tmp_box=\box52
+\l__siunitx_table_tmp_dim=\dimen160
+\l__siunitx_table_column_width_dim=\dimen161
+\l__siunitx_table_integer_box=\box53
+\l__siunitx_table_decimal_box=\box54
+\l__siunitx_table_before_box=\box55
+\l__siunitx_table_after_box=\box56
+\l__siunitx_table_before_dim=\dimen162
+\l__siunitx_table_carry_dim=\dimen163
+\l__siunitx_unit_tmp_int=\count280
+\l__siunitx_unit_position_int=\count281
+\l__siunitx_unit_total_int=\count282
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box57
+))
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+
+LaTeX3 Info: Defining command \DeclareSIPower with sig. '+m+mm' on line 8200.
+
+
+LaTeX3 Info: Defining command \DeclareSIPrefix with sig. '+mmm' on line 8204.
+
+
+LaTeX3 Info: Defining command \DeclareSIQualifier with sig. '+mm' on line
+(LaTeX3)     8208.
+
+
+LaTeX3 Info: Defining command \DeclareSIUnit with sig. 'o+mm' on line 8214.
+
+
+LaTeX3 Info: Defining command \qty with sig. 'O{}m>{\TrimSpaces }m' on line
+(LaTeX3)     8252.
+
+
+LaTeX3 Info: Defining command \ang with sig. 'O{}>{\SplitArgument {2}{;}}m' on
+(LaTeX3)     line 8260.
+
+
+LaTeX3 Info: Defining command \num with sig. 'O{}m' on line 8269.
+
+
+LaTeX3 Info: Defining command \unit with sig. 'O{}>{\TrimSpaces }m' on line
+(LaTeX3)     8279.
+
+
+LaTeX3 Info: Defining command \qtylist with sig. 'O{}>{\SplitList
+(LaTeX3)     {;}}m>{\TrimSpaces }m' on line 8289.
+
+
+LaTeX3 Info: Defining command \numlist with sig. 'O{}>{\SplitList {;}}m' on
+(LaTeX3)     line 8297.
+
+
+LaTeX3 Info: Defining command \qtyproduct with sig. 'O{}>{\SplitList
+(LaTeX3)     {x}}m>{\TrimSpaces }m' on line 8307.
+
+
+LaTeX3 Info: Defining command \numproduct with sig. 'O{}>{\SplitList
+(LaTeX3)     {x}}>{\TrimSpaces }m' on line 8316.
+
+
+LaTeX3 Info: Defining command \qtyrange with sig. 'O{}mm>{\TrimSpaces }m' on
+(LaTeX3)     line 8325.
+
+
+LaTeX3 Info: Defining command \numrange with sig. 'O{}mm' on line 8333.
+
+
+LaTeX3 Info: Defining command \complexnum with sig. 'O{}>{\SplitArgument
+(LaTeX3)     {1}{:}}m' on line 8345.
+
+
+LaTeX3 Info: Defining command \complexqty with sig. 'O{}>{\SplitArgument
+(LaTeX3)     {1}{:}}mm' on line 8358.
+
+
+LaTeX3 Info: Defining command \tablenum with sig. 'O{}m' on line 8368.
+
+
+LaTeX3 Info: Defining command \sisetup with sig. 'm' on line 8370.
+
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen164
+\ar@mcellbox=\box58
+\extrarowheight=\dimen165
+\NC@list=\toks23
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box59
+)
+
+LaTeX3 Info: Defining command \qty (pdfstring context) with sig. 'omm' on line
+(LaTeX3)     8452.
+
+
+LaTeX3 Info: Defining command \ang (pdfstring context) with sig. 'm' on line
+(LaTeX3)     8453.
+
+
+LaTeX3 Info: Defining command \num (pdfstring context) with sig. 'om' on line
+(LaTeX3)     8454.
+
+
+LaTeX3 Info: Defining command \unit (pdfstring context) with sig. 'om' on line
+(LaTeX3)     8455.
+
+
+LaTeX3 Info: Defining command \numlist (pdfstring context) with sig. 'om' on
+(LaTeX3)     line 8462.
+
+
+LaTeX3 Info: Defining command \qtylist (pdfstring context) with sig. 'omm' on
+(LaTeX3)     line 8469.
+
+
+LaTeX3 Info: Defining command \numproduct (pdfstring context) with sig. 'om'
+(LaTeX3)     on line 8470.
+
+
+LaTeX3 Info: Defining command \qtyproduct (pdfstring context) with sig. 'omm'
+(LaTeX3)     on line 8471.
+
+
+LaTeX3 Info: Defining command \numrange (pdfstring context) with sig. 'omm' on
+(LaTeX3)     line 8473.
+
+
+LaTeX3 Info: Defining command \qtyrange (pdfstring context) with sig. 'ommm'
+(LaTeX3)     on line 8475.
+
+
+LaTeX3 Info: Defining command \si (pdfstring context) with sig. 'om' on line
+(LaTeX3)     8476.
+
+
+LaTeX3 Info: Defining command \SI (pdfstring context) with sig. 'omO{}m' on
+(LaTeX3)     line 8477.
+
+
+LaTeX3 Info: Defining command \SIlist (pdfstring context) with sig. 'omm' on
+(LaTeX3)     line 8484.
+
+
+LaTeX3 Info: Defining command \SIrange (pdfstring context) with sig. 'ommm' on
+(LaTeX3)     line 8486.
+
+
+LaTeX3 Info: Defining command \DeclareBinaryPrefix with sig. '+mmm' on line
+(LaTeX3)     8585.
+
+
+LaTeX3 Info: Defining command \DeclareSIPrePower with sig. '+mm' on line 8590.
+
+
+LaTeX3 Info: Defining command \DeclareSIPostPower with sig. '+mm' on line
+(LaTeX3)     8595.
+
+
+LaTeX3 Info: Defining command \si with sig. 'O{}>{\TrimSpaces }m' on line
+(LaTeX3)     8605.
+
+
+LaTeX3 Info: Defining command \SI with sig. 'O{}mo>{\TrimSpaces }m' on line
+(LaTeX3)     8620.
+
+
+LaTeX3 Info: Defining command \SIlist with sig. 'O{}>{\SplitList
+(LaTeX3)     {;}}m>{\TrimSpaces }m' on line 8630.
+
+
+LaTeX3 Info: Defining command \SIrange with sig. 'O{}mm>{\TrimSpaces }m' on
+(LaTeX3)     line 8639.
+
+
+LaTeX3 Info: Defining command \SendSettingsToPgf with sig. '' on line 8829.
+
+) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count284
+\float@exts=\toks24
+\float@box=\box60
+\@float@everytoks=\toks25
+\@floatcapt=\box61
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
+) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen168
+\captionmargin@=\dimen169
+\captionwidth=\dimen170
+\caption@tempdima=\dimen171
+\caption@indent=\dimen172
+\caption@parindent=\dimen173
+\caption@hangindent=\dimen174
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count285
+\c@continuedfloat=\count286
+Package caption Info: float package is loaded.
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count287
+\c@subtable=\count288
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/wallpaper\wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen175
+\ESO@tempdimb=\dimen176
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\wpXoffset=\skip58
+\wpYoffset=\skip59
+\tileXoffset=\skip60
+\tileYoffset=\skip61
+\tilewidth=\skip62
+\tileheight=\skip63
+\tileX=\skip64
+\tileY=\skip65
+) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/nomencl\nomencl.sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count289
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.st
+y
+Package: tocbasic 2022/10/12 v3.38 KOMA-Script package (handling toc-files)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok-3.34.sty
+Package: scrlfile-hook-3.34 2022/10/12 v3.38 KOMA-Script package (using LaTeX h
+ooks)
+
+LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 87.
+
+
+LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 91.
+
+
+LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 95.
+
+
+LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 99.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line
+(LaTeX3)     109.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
+(LaTeX3)     119.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
+(LaTeX3)     199.
+
+
+LaTeX3 Info: Defining command \AfterClass with sig. '' on line 200.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
+(LaTeX3)     217.
+
+
+LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 218.
+
+
+LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 219.
+
+
+LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 222.
+
+
+LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 225.
+
+
+LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 226.
+
+
+LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 229.
+
+
+LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 232.
+
+
+LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
+(LaTeX3)     line 260.
+
+
+LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
+(LaTeX3)     line 268.
+
+
+LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
+(LaTeX3)     line 273.
+
+
+LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
+(LaTeX3)     line 287.
+
+
+LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
+(LaTeX3)     300.
+
+
+LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 313.
+
+
+LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
+(LaTeX3)     line 324.
+
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+)))
+Skipping: [2021/05/01] Usage of raw or classic option list on input line 252.
+Applying: [0000/00/00] Usage of raw or classic option list on input line 368.
+)
+\scr@dte@tocline@numberwidth=\skip66
+\scr@dte@tocline@numbox=\box62
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 187.
+Package tocbasic Info: setting babel extension for `nls' on input line 188.
+\nomlabelwidth=\dimen177
+\nom@tempdim=\dimen178
+\nomitemsep=\skip67
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip68
+\f@nch@O@elh=\skip69
+\f@nch@O@erh=\skip70
+\f@nch@O@olh=\skip71
+\f@nch@O@orh=\skip72
+\f@nch@O@elf=\skip73
+\f@nch@O@erf=\skip74
+\f@nch@O@olf=\skip75
+\f@nch@O@orf=\skip76
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen179
+\Hy@linkcounter=\count290
+\Hy@pagecounter=\count291
+ (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+nguages
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count292
+ (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count293
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen180
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count294
+\Field@Width=\dimen181
+\Fld@charsize=\dimen182
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count295
+\c@Item=\count296
+\c@Hfootnote=\count297
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip77
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count300
+\Gm@cntv=\count301
+\c@Gm@tempcnt=\count302
+\Gm@bindingoffset=\dimen183
+\Gm@wd@mp=\dimen184
+\Gm@odd@mp=\dimen185
+\Gm@even@mp=\dimen186
+\Gm@layoutwidth=\dimen187
+\Gm@layoutheight=\dimen188
+\Gm@layouthoffset=\dimen189
+\Gm@layoutvoffset=\dimen190
+\Gm@dimlist=\toks28
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everysel-2011-
+10-28.sty))
+\CenteringLeftskip=\skip78
+\RaggedLeftLeftskip=\skip79
+\RaggedRightLeftskip=\skip80
+\CenteringRightskip=\skip81
+\RaggedLeftRightskip=\skip82
+\RaggedRightRightskip=\skip83
+\CenteringParfillskip=\skip84
+\RaggedLeftParfillskip=\skip85
+\RaggedRightParfillskip=\skip86
+\JustifyingParfillskip=\skip87
+\CenteringParindent=\skip88
+\RaggedLeftParindent=\skip89
+\RaggedRightParindent=\skip90
+\JustifyingParindent=\skip91
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count303
+\c@Blindtext=\count304
+\c@blind@countparstart=\count305
+\blind@countxx=\count306
+\blindtext@numBlindtext=\count307
+\blind@countyy=\count308
+\c@blindlist=\count309
+\c@blindlistlevel=\count310
+\c@blindlist@level=\count311
+\blind@listitem=\count312
+\c@blind@listcount=\count313
+\c@blind@levelcount=\count314
+\blind@mathformula=\count315
+\blind@Mathformula=\count316
+\c@blind@randomcount=\count317
+\c@blind@randommax=\count318
+\c@blind@pangramcount=\count319
+\c@blind@pangrammax=\count320
+) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/qtree\qtree.sty
+Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+Package: qtree 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks29
+\@arclen=\dimen191
+\@arcrad=\dimen192
+\pIIe@tempdima=\dimen193
+\pIIe@tempdimb=\dimen194
+\pIIe@tempdimc=\dimen195
+\pIIe@tempdimd=\dimen196
+\pIIe@tempdime=\dimen197
+\pIIe@tempdimf=\dimen198
+)
+\c@treecount=\count321
+\c@branchcount=\count322
+\parentbox=\box63
+\treebox=\box64
+\treeboxone=\box65
+\treeboxtwo=\box66
+\treeboxthree=\box67
+\treeboxfour=\box68
+\treeboxfive=\box69
+\treeboxsix=\box70
+\treeboxseven=\box71
+\treeboxeight=\box72
+\treeboxnine=\box73
+\treeboxten=\box74
+\treeboxeleven=\box75
+\treeboxtwelve=\box76
+\treeboxthirteen=\box77
+\treeboxfourteen=\box78
+\treeboxfifteen=\box79
+\treeboxsixteen=\box80
+\treeboxseventeen=\box81
+\treeboxeighteen=\box82
+\treeboxnineteen=\box83
+\treeboxtwenty=\box84
+\treeoffsetone=\skip92
+\treeoffsettwo=\skip93
+\treeoffsetthree=\skip94
+\treeoffsetfour=\skip95
+\treeoffsetfive=\skip96
+\treeoffsetsix=\skip97
+\treeoffsetseven=\skip98
+\treeoffseteight=\skip99
+\treeoffsetnine=\skip100
+\treeoffsetten=\skip101
+\treeoffseteleven=\skip102
+\treeoffsettwelve=\skip103
+\treeoffsetthirteen=\skip104
+\treeoffsetfourteen=\skip105
+\treeoffsetfifteen=\skip106
+\treeoffsetsixteen=\skip107
+\treeoffsetseventeen=\skip108
+\treeoffseteighteen=\skip109
+\treeoffsetnineteen=\skip110
+\treeoffsettwenty=\skip111
+\treeshiftone=\skip112
+\treeshifttwo=\skip113
+\treeshiftthree=\skip114
+\treeshiftfour=\skip115
+\treeshiftfive=\skip116
+\treeshiftsix=\skip117
+\treeshiftseven=\skip118
+\treeshifteight=\skip119
+\treeshiftnine=\skip120
+\treeshiftten=\skip121
+\treeshifteleven=\skip122
+\treeshifttwelve=\skip123
+\treeshiftthirteen=\skip124
+\treeshiftfourteen=\skip125
+\treeshiftfifteen=\skip126
+\treeshiftsixteen=\skip127
+\treeshiftseventeen=\skip128
+\treeshifteighteen=\skip129
+\treeshiftnineteen=\skip130
+\treeshifttwenty=\skip131
+\treewidthone=\skip132
+\treewidthtwo=\skip133
+\treewidththree=\skip134
+\treewidthfour=\skip135
+\treewidthfive=\skip136
+\treewidthsix=\skip137
+\treewidthseven=\skip138
+\treewidtheight=\skip139
+\treewidthnine=\skip140
+\treewidthten=\skip141
+\treewidtheleven=\skip142
+\treewidthtwelve=\skip143
+\treewidththirteen=\skip144
+\treewidthfourteen=\skip145
+\treewidthfifteen=\skip146
+\treewidthsixteen=\skip147
+\treewidthseventeen=\skip148
+\treewidtheighteen=\skip149
+\treewidthnineteen=\skip150
+\treewidthtwenty=\skip151
+\daughteroffsetone=\skip152
+\daughteroffsettwo=\skip153
+\daughteroffsetthree=\skip154
+\daughteroffsetfour=\skip155
+\branchwidthone=\skip156
+\branchwidthtwo=\skip157
+\branchwidththree=\skip158
+\branchwidthfour=\skip159
+\parentoffset=\skip160
+\treeoffset=\skip161
+\daughteroffset=\skip162
+\branchwidth=\skip163
+\parentwidth=\skip164
+\treewidth=\skip165
+\qta=\toks30
+\qtb=\toks31
+\nbranches=\count323
+\qroofx=\count324
+\qroofy=\count325
+\@qrscratchbox=\box85
+) (C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip166
+\enit@outerparindent=\dimen199
+\enit@toks=\toks32
+\enit@inbox=\box86
+\enit@count@id=\count326
+\enitdp@description=\count327
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count328
+\scratchdimen=\dimen256
+\scratchbox=\box87
+\nofMPsegments=\count329
+\nofMParguments=\count330
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen257
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
+\everyMPtoPDFconversion=\toks34
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 43.
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count334
+)
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
+ (main.out) (main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 638.47984pt, 99.58464pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=638.47984pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 43.
+<imgs/mva.png, id=55, 720.89325pt x 211.992pt>
+File: imgs/mva.png Graphic file (type png)
+<use imgs/mva.png>
+Package pdftex.def Info: imgs/mva.png  used on input line 48.
+(pdftex.def)             Requested size: 236.01561pt x 69.40442pt.
+ (main.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(C:\Users\meri2\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+[1
+
+{C:/Users/meri2/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./imgs/mva.png>
+]
+
+LaTeX Warning: Citation `DeepEikonalSolver' on page 1 undefined on input line 6
+6.
+
+
+LaTeX Warning: Citation `ExactGeodesics' on page 1 undefined on input line 70.
+
+
+LaTeX Warning: Citation `FastMarching' on page 1 undefined on input line 83.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.90 I
+      l semble, à la lecture du papier du moins, qu'il est possible d'utili...
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+LaTeX Warning: Reference `results' on page 2 undefined on input line 105.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+<imgs/verts.png, id=96, 508.0581pt x 132.2541pt>
+File: imgs/verts.png Graphic file (type png)
+<use imgs/verts.png>
+Package pdftex.def Info: imgs/verts.png  used on input line 112.
+(pdftex.def)             Requested size: 377.62642pt x 98.3044pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2]
+
+LaTeX Warning: Reference `grille' on page 3 undefined on input line 124.
+
+
+LaTeX Warning: Reference `mesh' on page 3 undefined on input line 124.
+
+
+LaTeX Warning: Citation `ExactGeodesics' on page 3 undefined on input line 137.
+
+
+
+LaTeX Warning: Citation `ExactGeodesicsCode' on page 3 undefined on input line 
+137.
+
+
+LaTeX Warning: Reference `problems' on page 3 undefined on input line 137.
+
+
+LaTeX Warning: Citation `ExactGeodesicsCode' on page 3 undefined on input line 
+137.
+
+[3 <./imgs/verts.png>]
+<imgs/gridN.png, id=117, 575.14874pt x 195.73125pt>
+File: imgs/gridN.png Graphic file (type png)
+<use imgs/gridN.png>
+Package pdftex.def Info: imgs/gridN.png  used on input line 147.
+(pdftex.def)             Requested size: 424.82523pt x 144.57901pt.
+
+
+LaTeX Warning: Citation `GridBenchmark' on page 4 undefined on input line 152.
+
+
+LaTeX Warning: Citation `ErrorOnGrid' on page 4 undefined on input line 154.
+
+[4 <./imgs/gridN.png>]
+
+LaTeX Warning: Reference `problems' on page 5 undefined on input line 167.
+
+<imgs/meshN.png, id=133, 609.477pt x 243.91125pt>
+File: imgs/meshN.png Graphic file (type png)
+<use imgs/meshN.png>
+Package pdftex.def Info: imgs/meshN.png  used on input line 171.
+(pdftex.def)             Requested size: 424.82523pt x 170.01468pt.
+
+LaTeX Warning: Citation `HeatMethod' on page 5 undefined on input line 181.
+
+
+LaTeX Warning: Citation `TOSCAbook' on page 5 undefined on input line 181.
+
+
+LaTeX Warning: Citation `SHRECpaper' on page 5 undefined on input line 181.
+
+
+LaTeX Warning: Citation `ExactGeodesics' on page 5 undefined on input line 183.
+
+
+
+LaTeX Warning: Citation `ExactGeodesics' on page 5 undefined on input line 183.
+
+
+
+LaTeX Warning: Citation `ExactGeodesics' on page 5 undefined on input line 183.
+
+
+<imgs/noise.png, id=135, 469.755pt x 107.80275pt>
+File: imgs/noise.png Graphic file (type png)
+<use imgs/noise.png>
+Package pdftex.def Info: imgs/noise.png  used on input line 188.
+(pdftex.def)             Requested size: 424.82523pt x 97.49202pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./imgs/meshN.png>] [6 <./imgs/noise.png>]
+
+LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
+(LaTeX3)     196.
+
+ (main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 21991AA656B532E554AD17128389AC26;2212.
+ ) 
+Here is how much of TeX's memory you used:
+ 18947 strings out of 479334
+ 346395 string characters out of 2857084
+ 704459 words of memory out of 3000000
+ 36072 multiletter control sequences out of 15000+200000
+ 421128 words of font info for 69 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 113i,8n,116p,1065b,846s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\meri2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1095.pk> <C:\Users\meri2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecti1095.pk> <C:\Users\meri2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecrm0900.pk> <C:\Users\meri2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm0600.pk> <C:\Users\meri2\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\meri2\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\meri2\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\meri2\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\meri2\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\meri2\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\meri2\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1728.pk><C:/Users/m
+eri2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Users/meri2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+8.pfb><C:/Users/meri2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi9.pfb><C:/Users/meri2/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Users/meri2/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Users/meri2/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/meri2/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/meri2/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (7 pages, 543125 bytes).
+PDF statistics:
+ 482 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 130 words of extra memory for PDF output out of 10000 (max. 10000000)
+

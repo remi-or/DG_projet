@@ -1,27 +1,27 @@
-from typing import Tuple, Dict, Any, List, Optional
+from typing import Tuple, Dict, Any, List, Union
 import torch
 from torch import Tensor
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 import numpy as np
-from tqdm.auto import tqdm
 from matplotlib import colormaps
 
-def color_faces(vertices: Tensor, # V, 3
-                faces: Tensor, # 3, F
-                origin: Tensor, # 3,
-                noise: float = 0.0,
-                cmap: str = 'plasma',
-                ) -> np.ndarray:
+def dist_facecolor(vertices: Tensor, # V, 3
+                   faces: Tensor, # 3, F
+                   origin: Tensor | None = None, # 3,
+                   noise: float = 0.0,
+                   cmap: str = 'plasma',
+                   ) -> np.ndarray:
     """Colors the (faces) of a mesh resting on some (vertices). The color is 
     proportionnal to the distance between a face's center of gravity and the 
     given (origin). Additional color noise is added if (noise) is above zero,
     in the range of [-noise, +noise]. One can choose the color map by its name
     (cmap). Returns an array of size (nb_faces, 4) where each line is the color 
     of a  face. """
+    origin = torch.ones(3) if origin is None else origin
     # Compute faces' distances
     d_min, distances, d_max = np.inf, [], -1
-    for face in tqdm(faces.T, 'Coloring faces'):
+    for face in faces.T:
         center = vertices[face].mean(0)
         distance = torch.dist(origin, center).item()
         if distance > d_max:    d_max = distance
@@ -42,32 +42,25 @@ def color_faces(vertices: Tensor, # V, 3
 def draw_mesh(vertices: Tensor, # V, 3
               faces: Tensor, # 3, F
               ax: plt.Axes,
-              **color_kwargs: Dict[str, Any],
-              ) -> None:
+              facecolors: np.ndarray | None = None,
+              ) -> Poly3DCollection:
     """Draws a mesh resting on (vertices) defined by (faces). The drawing is 
-    done on a (ax) object where projection='3d', and eventual kwargs can be 
-    passed for the coloring stage through (color_kwargs)."""
-    # Add faces to the collection
+    done on a (ax) object where projection='3d' and facecolors can be applied
+    through (facecolors)."""
     explicit_faces = []
-    for face in tqdm(faces.T, 'Drawing faces'):
+    for face in faces.T:
         explicit_faces.append( vertices[face].numpy() )
-    # Color the faces
-    color_kwargs = {} if color_kwargs is None else color_kwargs
-    if 'origin' not in color_kwargs:
-        color_kwargs['origin'] = torch.ones(3)
-    collection_colors = color_faces(vertices, faces, **color_kwargs)
     collection = Poly3DCollection(verts=explicit_faces, 
-                                  facecolors=collection_colors, 
+                                  facecolors=facecolors, 
                                   shade=True)
-    # Add the collection to the ax
-    ax.add_collection3d(collection)
+    return ax.add_collection3d(collection)
 
 def subplots3d(nrows: int,
                ncols: int,
                figsize: Tuple[int, int] = (8, 8),
                camera: Tuple[int, int, int] = (10, 30, 0),
                named_axes: bool = True,
-               ) -> Tuple[plt.Figure, plt.Axes | List[plt.Axes]]:
+               ) -> Tuple[plt.Figure, Union[plt.Axes, List[plt.Axes]]]:
     """Creates a figure of size (figsize) with (nrows) rows and (ncols) columns
     where each ax is a 3d ax with a view oriented along to (camera). If the 
     (named_axes) flag is set to True, axis names are set to 'x',... Returns a 
@@ -106,8 +99,10 @@ def format_vf(vertices: Tensor | np.ndarray,
         raise ValueError(f"Invalid vertices shape: {vertices.shape = }")
     # eventualy normalize vertices
     if normalize:
-        vertices -= vertices.min().item()
+        # vertices -= vertices.min().item()
         vertices /= vertices.max().item()
+        vertices[:, :2] += 0.5
+        vertices[:, 2] -= vertices[:, 2].min().item()
     # faces type
     faces = torch.tensor(faces) if isinstance(faces, np.ndarray) else faces
     if not isinstance(faces, Tensor):
